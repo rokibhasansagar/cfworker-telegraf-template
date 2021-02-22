@@ -11,7 +11,7 @@
     "build": "webpack ."
   },
   "dependencies": {
-    "@cfworker/web": "^1.6.4",
+    "@cfworker/web": "^1.6.8",
     "cfworker-middware-telegraf": "^1.0.0",
     "telegraf": "^3.38.0"
   },
