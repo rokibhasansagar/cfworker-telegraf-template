@@ -16,7 +16,7 @@
     "telegraf": "^3.38.0"
   },
   "devDependencies": {
-    "webpack": "^4.44.2",
+    "webpack": "^5.25.1",
     "webpack-cli": "^4.2.0"
   }
 }
